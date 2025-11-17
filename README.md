@@ -10,7 +10,12 @@ On this challenge, you're implementing a Continuos Limit Order Book (CLOB). Buye
 
 ## How to build and run
 
-_ADD YOUR INSTRUCTIONS HERE_
+To compile the program, you can simply compile main.cpp, or you can also use the following command to make sure the headers are linked correctly:
+g++ main.cpp OrderBook.cpp orden.cpp -o program
+Then you execute it with:
+.\program.exe
+Of course, the keyword program may vary depending on the .exe being executed or if you change the name in the compile command.
+When you run the program, it will execute a hypothetical scenario where there are buyers and sellers but no connection or match between them. Afterwards, buy orders that meet the matching requirements are added, the order book is printed again, and the terminal shows which buyer and seller matched.
 
 
 ## Deliverables
