@@ -14,6 +14,9 @@ References:
 Amazon. (2025). ¿Qué es el comercio electrónico? | Vender en Amazon. Vender En Amazon. https://sell.amazon.com/es/learn/what-is-ecommerce
 Hendershott, T. (2003). Electronic trading in financial markets. IT Professional, 5(4), 10–14. https://doi.org/10.1109/mitp.2003.1216227
 ‌
+
+
+
 Conlusion
 In conclusion, implementing a continuous limit order book shows how fundamental data structure concepts particularly priority queues with strict price time ordering can be used to build automated systems that coordinate large volumes of buy and sell orders in real time. This approach mirrors the core mechanism used in modern stock exchanges: efficiently organizing, matching, and executing orders while maintaining fairness and transparency. The project makes it clear that the behavior of financial markets is not magic; it is the result of deterministic algorithms relying on disciplined data management and precise matching rules.
 
